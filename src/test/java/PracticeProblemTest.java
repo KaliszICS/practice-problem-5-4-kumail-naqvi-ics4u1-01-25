@@ -7,7 +7,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 import java.util.Arrays;
 
-class JUnitWithReflectionTest {
+class PracticeProblemTest {
 
     // Helper methods for reflection
     private Class<?> getClassSafely(String className) {
